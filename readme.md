@@ -1,1 +1,4 @@
-Ceci est le readme du meilleur projet du monde
+Projet du bettermotherfucking website implémenté en CSS et Java
+
+lien de la page
+https://paulo-guerin.github.io/
